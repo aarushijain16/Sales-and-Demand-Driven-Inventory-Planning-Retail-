@@ -41,29 +41,28 @@ The key questions addressed:
 
 I designed a data-driven inventory planning framework using retail transaction data:
 
-🔹 Inventory Classification
+**🔹 Inventory Classification**
 
-    - ABC analysis by revenue and cost
-    - XYZ analysis based on demand variability
-    - ABC-XYZ 9-box matrix to prioritise replenishment decisions
+- ABC analysis by revenue and cost
+- XYZ analysis based on demand variability
+- ABC-XYZ 9-box matrix to prioritise replenishment decisions
 
-🔹 Replenishment and Risk Modeling
-    
-    - Safety stock and reorder point calculations
-    - Lead-time demand analysis
-    - Fill-rate and service-level evaluation
+**🔹 Replenishment and Risk Modeling**
 
-🔹 Inventory Health and Leakage Analysis
+- Safety stock and reorder point calculations
+- Lead-time demand analysis
+- Fill-rate and service-level evaluation
 
-    - Excess, slow-moving, and dead stock identification
-    - Stock-out days and lost sales estimation
-    - Inventory turnover and days-of-supply analysis
-    - Return-rate analysis by category
+**🔹 Inventory Health and Leakage Analysis**
 
-🔹 Executive Reporting
+ - Excess, slow-moving, and dead stock identification
+ - Stock-out days and lost sales estimation
+ - Inventory turnover and days-of-supply analysis
+ - Return-rate analysis by category
 
-    - Built a Power BI dashboard translating analytics 
-      into actionable business insights
+**🔹 Executive Reporting**
+
+- Built a Power BI dashboard translating analytics into actionable business insights
 
 # Key Business Insights and Impact
 
@@ -133,7 +132,7 @@ The same framework can be adapted for:
 - Multi-warehouse operations
 
 # 📌 Note
-This analysis uses the publicly available MAven Superstore dataset. Financial impacts are estimated using industry-standard benchmarks to reflect real-world retail scale.
+This analysis uses the publicly available Maven Superstore dataset. Financial impacts are estimated using industry-standard benchmarks to reflect real-world retail scale.
 
 # 💬 How this helps you as a client
 If you are facing:
