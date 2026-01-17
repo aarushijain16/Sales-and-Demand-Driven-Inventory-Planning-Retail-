@@ -62,7 +62,8 @@ I designed a data-driven inventory planning framework using retail transaction d
 
 🔹 Executive Reporting
 
-    - Built a Power BI dashboard translating analytics into actionable business insights
+    - Built a Power BI dashboard translating analytics 
+      into actionable business insights
 
 # Key Business Insights and Impact
 
