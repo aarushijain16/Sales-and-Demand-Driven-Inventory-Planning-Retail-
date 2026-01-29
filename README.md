@@ -9,7 +9,7 @@ Using **SQL, Python, and Power BI,** I built an end-to-end inventory optimisatio
 
 - Revenue lost due to stock-outs
 
-- Products that trult drive profitability
+- Products that truly drive profitability
 
 - Optimal safety stock and reorder levels
 
